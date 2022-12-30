@@ -3,6 +3,7 @@
 
   - Implemente um código assíncrono entre os console.log() abaixo.
 */
+// Fazer AMANHÃ URGENTE! 29/12/2022
 
 console.log('Linha 1')
 console.log('Linha 2')
